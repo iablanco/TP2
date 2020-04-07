@@ -1,0 +1,2 @@
+const fs = rquiere('fs')
+TEST
